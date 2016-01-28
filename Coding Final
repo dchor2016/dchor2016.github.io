@@ -1,0 +1,118 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css"
+    rel="stylesheet" type="text/css">
+    <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css"
+    rel="stylesheet" type="text/css">
+  </head>
+  
+  <body>
+    <div class="cover">
+      <div class="navbar">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#"><span>Brand</span></a>
+          </div>
+          <div class="collapse navbar-collapse" id="navbar-ex-collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li class="active">
+                <a href="#">Home</a>
+              </li>
+              <li>
+                <a href="#">Contacts</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="cover-image" style="background-image : url('https://unsplash.imgix.net/photo-1416400453940-65c69d70ad91?w=1024&amp;q=50&amp;fm=jpg&amp;s=54806c1456b35f1d56ca356663d1bdd2')"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h1 class="text-inverse">Jane Doe, Esq.</h1>
+            <p class="text-inverse">2016 University of North Carolina Law School</p>
+            <br>
+            <br>
+            <a class="btn btn-lg btn-primary">Click me</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="/Users/donnachornyei1/Downloads/Book and Gavel.jpg" class="img-responsive">
+          </div>
+          <div class="col-md-6">
+            <h1 class="text-primary">Graduated Top Ten Percent of &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Class</h1>
+            <h3></h3>
+            <p>I achieved a grade point average of 4.0 and graduated 2nd in my class
+              of 334 students</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <a class="btn btn-lg btn-primary" href="./QnA.html">QnA Project</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <a class="btn btn-lg btn-primary" href="/Users/donnachornyei1/Documents/A2J Author.docx">A2J Interview</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center text-primary">Team</h1>
+            <p class="text-center">We are a group of skilled individuals.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <img src="/Users/donnachornyei1/Downloads/Jane Doe Resume.jpg" class="center-block img-circle img-responsive">
+            <h3 class="text-center">Jane Doe Resume</h3>
+            <p class="text-center"></p>
+          </div>
+          <div class="col-md-4">
+            <img src="/Users/donnachornyei1/Documents/Gavel picture.jpg" class="center-block img-circle img-responsive">
+            <h3 class="text-center">Editor Law &nbsp;Review
+              <br>Member Moot Court Team
+              <br>President Student Law Association</h3>
+            <p class="text-center"></p>
+          </div>
+          <div class="col-md-4">
+            <img src="/Users/donnachornyei1/Downloads/Lawyer Picture.jpg" class="center-block img-circle img-responsive">
+            <h3 class="text-center"></h3>
+            <p class="text-center"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>
